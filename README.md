@@ -30,8 +30,8 @@
 
 |Name                   |GitHub ID         |website for a GitHub repo  | 
 |:----------------------|:-----------------|:--------------------------|  
-| Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
-| Beckman | mdbeckman | <https://mdbeckman.github.io/Repo-Demo-184/> |
+| Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   | 
+| Steven Griffin  | stevgriffs     | <https://stevgriffs.github.io/Population-Coding-Experience/> |
 
 
 <br>
